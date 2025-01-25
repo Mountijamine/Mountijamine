@@ -5,16 +5,13 @@
   <a href="https://linkedin.com/in/amine-mountij" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amine-mountij" height="30" width="40" />
   </a>
-  <a href="mailto:mountijamine.dev@gmail.com" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="email" height="30" width="40" />
-  </a>
 </p>
 
 ---
 
 ### **About Me**
 - 🎓 **Fourth-year engineering student** with a strong passion for **software development** and **problem-solving**.
-- 🌱 Currently mastering **React**, **Next.js**, **Node.js**, **TypeScript**, and **Java**.
+- 🌱 Currently mastering **React**, **Node.js**, **TypeScript**, and **Java**.
 - 💡 Always exploring new technologies and striving to create **impactful solutions**.
 - 🤝 Open to **collaboration** and excited to grow in the tech world.
 
@@ -25,9 +22,6 @@
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
